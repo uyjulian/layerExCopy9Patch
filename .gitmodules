@@ -1,0 +1,7 @@
+[submodule "external/ncbind"]
+	path = external/ncbind
+	url = https://github.com/uyjulian/ncbind.git
+	branch = mingw
+[submodule "external/simde"]
+	path = external/simde
+	url = https://github.com/simd-everywhere/simde.git
